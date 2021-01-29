@@ -1,9 +1,7 @@
 //Author:      Fatima Parada-Taboada
-//Assignment:  Project 3
-//Net ID:      fnp170130
 //Function:    Problem: As usual, Wario is concerned about nothing other than acquiring more money. In order to maximize
 //             profits, Wario needs to use calculus to create derivatives for analysis.Unfortunately, Wario never took calculus;
-//             there wasn’t much need of it in the Mushroom Kingdom.So, Wario is calling on you to help him by creating a
+//             there wasnâ€™t much need of it in the Mushroom Kingdom.So, Wario is calling on you to help him by creating a
 //             program to create derivatives.
 
 #include<iostream>
